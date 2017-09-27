@@ -1,2 +1,2 @@
-# benchmarkSorts
+# BenchmarkSorts
 This program is designed to benchmark the performance of the Selection Sort algorithm. The data to be sorted are randomly generated sets of integers. The size of the data sets are read in from a text file of user selected values. The program runs the data sets 50 times each through an iterative and a recursive version of the algorithm. The critical operation of each version is counted and timed before a table of results is displayed. The goal of the program is to demonstrate the behavioral trend of the sorting algorithm as the size of the data sets become increasingly large. With slight modifications to the run() method in the BenchmarkSorts class, other sorting algorithms may be examined.
